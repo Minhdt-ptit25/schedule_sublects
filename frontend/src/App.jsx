@@ -9,7 +9,16 @@ import ExcelUploadModal from './components/ExcelUploadModal';
 const API_BASE = import.meta.env.VITE_API_BASE || 'https://schedule-sublects.onrender.com/api';
 
 function App() {
-  const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState('dark');
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => {
+    const nextTheme = theme === 'dark' ? 'light' : 'dark';
+    setTheme(nextTheme);
+  };
   const [subjects, setSubjects] = useState([]);
   const [khoaList, setKhoaList] = useState([]);
   const [subjectList, setSubjectList] = useState([]);
@@ -38,11 +47,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [alert, setAlert] = useState(null);
 
-  const toggleTheme = () => {
-    const nextTheme = theme === 'dark' ? 'light' : 'dark';
-    setTheme(nextTheme);
-    document.documentElement.setAttribute('data-theme', nextTheme);
-  };
+
 
   const showAlert = (message, type = 'info') => {
     setAlert({ message, type, id: Date.now() });
