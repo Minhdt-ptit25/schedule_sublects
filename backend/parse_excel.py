@@ -74,10 +74,14 @@ def parse_file(excel_path):
 
         ma_lop = clean_str(r[39]) if len(r) > 39 and r[39] else (clean_str(r[41]) if len(r) > 41 and r[41] else f"{ma_mon}_{nhom}")
         
-        try:
-            so_tc = int(r[42]) if len(r) > 42 and r[42] is not None and str(r[42]).isdigit() else 3
-        except:
-            so_tc = 3
+        # Practice/Lab sections carry 0 credits (credits are counted in Theory section)
+        if to_th != "" or "thực hành" in ten_mon.lower():
+            so_tc = 0
+        else:
+            try:
+                so_tc = int(r[42]) if len(r) > 42 and r[42] is not None and str(r[42]).isdigit() else 3
+            except:
+                so_tc = 3
 
         subjects.append({
             "maMon": ma_mon,

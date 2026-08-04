@@ -224,7 +224,9 @@ exports.uploadExcel = async (req, res) => {
       let maLop = cleanStr(r[39]) || cleanStr(r[41]) || `${maMon}_${nhom}`;
 
       let soTC = 3;
-      if (r[42] !== undefined && r[42] !== null && !isNaN(r[42])) {
+      if (toTH !== '' || tenMon.toLowerCase().includes('thực hành')) {
+        soTC = 0;
+      } else if (r[42] !== undefined && r[42] !== null && !isNaN(r[42])) {
         soTC = parseInt(r[42]);
       }
 
