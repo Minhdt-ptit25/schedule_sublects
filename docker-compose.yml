@@ -23,9 +23,6 @@ services:
     environment:
       - PORT=5000
       - MONGO_URI=mongodb://mongo:27017/res_subject_db
-      - EXCEL_PATH=/app/data/3007_DKGD_hoc_ky_1_nam_hoc_2026_2027_Open.xlsx
-    volumes:
-      - "E:/downloads/ZALO/3007_DKGD hoc ky 1 nam hoc 2026_2027 Open.xlsx:/app/data/3007_DKGD_hoc_ky_1_nam_hoc_2026_2027_Open.xlsx:ro"
     depends_on:
       - mongo
     networks:
