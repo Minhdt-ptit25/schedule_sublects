@@ -26,7 +26,9 @@ const Timetable = ({ registeredList, onUnregister }) => {
     '17:00',
     '18:00',
     '19:00',
-    '20:00'
+    '20:00',
+    '21:00',
+    '22:00'
   ];
 
   const normalizeDay = (val) => {
@@ -57,8 +59,12 @@ const Timetable = ({ registeredList, onUnregister }) => {
         startHourIndex = 10; // Tiết 9 = 16:00 (idx 10)
       } else if (tNum === 10) {
         startHourIndex = 11; // Tiết 10 = 17:00 (idx 11)
-      } else if (tNum >= 11) {
-        startHourIndex = 12; // Tiết 11/12/13 = 18:00 (idx 12)
+      } else if (tNum === 11) {
+        startHourIndex = 12; // Tiết 11 = 18:00 (idx 12)
+      } else if (tNum === 12) {
+        startHourIndex = 13; // Tiết 12 = 19:00 (idx 13)
+      } else if (tNum >= 13) {
+        startHourIndex = 14; // Tiết 13/14 = 20:00 (idx 14)
       }
     } 
     // Priority 2: Fallback to Kíp (1..6) if tietBD is not provided
@@ -68,7 +74,7 @@ const Timetable = ({ registeredList, onUnregister }) => {
       else if (kipNum === 3) startHourIndex = 5;  // Kíp 3 -> 11:00
       else if (kipNum === 4) startHourIndex = 7;  // Kíp 4 -> 13:00
       else if (kipNum === 5) startHourIndex = 9;  // Kíp 5 -> 15:00
-      else if (kipNum === 6) startHourIndex = 11; // Kíp 6 -> 17:00
+      else if (kipNum === 6) startHourIndex = 12; // Kíp 6 -> 18:00
     }
 
     const rowHeight = 50; // Must strictly match grid row height (50px)
@@ -369,6 +375,35 @@ const Timetable = ({ registeredList, onUnregister }) => {
         </div>
 
       </div>
+
+      {/* Flexible / Unassigned Online Subjects Section */}
+      {registeredList.filter(s => !s.thu || !normalizeDay(s.thu)).length > 0 && (
+        <div style={{ marginTop: '16px', padding: '14px', background: 'rgba(16, 185, 129, 0.08)', borderRadius: '10px', border: '1px solid #10b981' }}>
+          <div style={{ fontWeight: 800, color: '#059669', fontSize: '0.88rem', marginBottom: '10px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <i className="fa-solid fa-laptop-code"></i> Môn Học Online / Lớp Chưa Xếp Lịch Cố Định ({registeredList.filter(s => !s.thu || !normalizeDay(s.thu)).length}):
+          </div>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '10px' }}>
+            {registeredList.filter(s => !s.thu || !normalizeDay(s.thu)).map(sub => (
+              <div key={sub._id} style={{ background: 'var(--bg-card)', padding: '10px 12px', borderRadius: '8px', border: '1px solid #10b981', position: 'relative' }}>
+                <button
+                  onClick={() => onUnregister && onUnregister(sub._id)}
+                  style={{ position: 'absolute', top: '8px', right: '8px', border: 'none', background: 'rgba(239, 68, 68, 0.9)', color: '#ffffff', width: '22px', height: '22px', borderRadius: '50%', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                  title="Hủy môn"
+                >
+                  <i className="fa-solid fa-xmark"></i>
+                </button>
+                <div style={{ fontWeight: 800, fontSize: '0.84rem', color: 'var(--text-primary)', paddingRight: '24px' }}>{sub.tenMon}</div>
+                <div style={{ fontSize: '0.74rem', color: 'var(--ptit-red)', fontWeight: 700, marginTop: '2px' }}>{sub.maMon} • Nhóm {sub.nhom} {sub.toTH ? `(Tổ TH ${sub.toTH})` : ''}</div>
+                <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '3px' }}>P.{sub.phong || 'ONL'} - Nhà {sub.nha || 'Online'} | GV: {sub.giangVien || '---'}</div>
+                <div style={{ fontSize: '0.7rem', color: '#10b981', fontWeight: 700, marginTop: '3px' }}>
+                  <i className="fa-regular fa-calendar-check"></i> Tuần: {sub.tuanHoc || 'Tự học / Linh hoạt'}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
     </div>
   );
 };
