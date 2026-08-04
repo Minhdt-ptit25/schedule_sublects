@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#dc2626"/>
+  <!-- Ring loops -->
+  <rect x="135" y="45" width="44" height="90" rx="22" fill="#ffffff"/>
+  <rect x="333" y="45" width="44" height="90" rx="22" fill="#ffffff"/>
+  <!-- Calendar Body -->
+  <rect x="70" y="110" width="372" height="340" rx="40" fill="#ffffff"/>
+  <!-- Header Bar -->
+  <path d="M 70 150 C 70 110 70 110 110 110 L 402 110 C 442 110 442 110 442 150 L 442 200 L 70 200 Z" fill="#ef4444"/>
+  <!-- Grid Dots -->
+  <circle cx="160" cy="270" r="22" fill="#dc2626"/>
+  <circle cx="256" cy="270" r="22" fill="#dc2626"/>
+  <circle cx="352" cy="270" r="22" fill="#dc2626"/>
+  <circle cx="160" cy="360" r="22" fill="#dc2626"/>
+  <circle cx="256" cy="360" r="22" fill="#dc2626"/>
+  <circle cx="352" cy="360" r="22" fill="#10b981"/>
+  <!-- Checkmark -->
+  <path d="M 342 360 L 350 368 L 364 350" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
