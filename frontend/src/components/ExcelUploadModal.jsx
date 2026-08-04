@@ -25,7 +25,8 @@ const ExcelUploadModal = ({ isOpen, onClose, onUploadSuccess, showAlert }) => {
     formData.append('file', selectedFile);
 
     try {
-      const res = await axios.post('/api/subjects/upload-excel', formData, {
+      const API_BASE = import.meta.env.VITE_API_BASE || '/api';
+      const res = await axios.post(`${API_BASE}/subjects/upload-excel`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
 
