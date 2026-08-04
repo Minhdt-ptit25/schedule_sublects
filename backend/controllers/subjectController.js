@@ -226,6 +226,8 @@ exports.uploadExcel = async (req, res) => {
       let soTC = 3;
       if (toTH !== '' || tenMon.toLowerCase().includes('thực hành')) {
         soTC = 0;
+      } else if (r[41] !== undefined && r[41] !== null && !isNaN(r[41])) {
+        soTC = parseInt(r[41]);
       } else if (r[42] !== undefined && r[42] !== null && !isNaN(r[42])) {
         soTC = parseInt(r[42]);
       }

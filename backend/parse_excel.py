@@ -79,7 +79,13 @@ def parse_file(excel_path):
             so_tc = 0
         else:
             try:
-                so_tc = int(r[42]) if len(r) > 42 and r[42] is not None and str(r[42]).isdigit() else 3
+                # Column 41 (r[41]) contains the exact PTIT credit count (Số tín chỉ)
+                if len(r) > 41 and r[41] is not None and str(r[41]).replace('.', '', 1).isdigit():
+                    so_tc = int(float(r[41]))
+                elif len(r) > 42 and r[42] is not None and str(r[42]).replace('.', '', 1).isdigit():
+                    so_tc = int(float(r[42]))
+                else:
+                    so_tc = 3
             except:
                 so_tc = 3
 

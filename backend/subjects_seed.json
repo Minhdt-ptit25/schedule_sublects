@@ -18,8 +18,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 7 8 18",
     "maLop": "BAS115350",
-    "soTC": 3,
-    "daDangKyCount": 15
+    "soTC": 2,
+    "daDangKyCount": 31
   },
   {
     "maMon": "BAS1153",
@@ -40,8 +40,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 18",
     "maLop": "BAS115350",
-    "soTC": 3,
-    "daDangKyCount": 15
+    "soTC": 2,
+    "daDangKyCount": 31
   },
   {
     "maMon": "BAS1153",
@@ -62,8 +62,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 7 8 18",
     "maLop": "BAS115351",
-    "soTC": 3,
-    "daDangKyCount": 37
+    "soTC": 2,
+    "daDangKyCount": 4
   },
   {
     "maMon": "BAS1153",
@@ -84,8 +84,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "5 6 7 8 18",
     "maLop": "BAS115351",
-    "soTC": 3,
-    "daDangKyCount": 37
+    "soTC": 2,
+    "daDangKyCount": 4
   },
   {
     "maMon": "INT1416",
@@ -107,7 +107,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT141601",
     "soTC": 3,
-    "daDangKyCount": 14
+    "daDangKyCount": 53
   },
   {
     "maMon": "INT1416",
@@ -129,7 +129,7 @@
     "tuanHoc": "1 2 3 4 13 14 15 16 18",
     "maLop": "INT141601",
     "soTC": 3,
-    "daDangKyCount": 14
+    "daDangKyCount": 53
   },
   {
     "maMon": "INT1416",
@@ -151,7 +151,7 @@
     "tuanHoc": "7 8 18",
     "maLop": "INT141601",
     "soTC": 3,
-    "daDangKyCount": 14
+    "daDangKyCount": 53
   },
   {
     "maMon": "INT1448",
@@ -173,7 +173,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT144802",
     "soTC": 3,
-    "daDangKyCount": 47
+    "daDangKyCount": 73
   },
   {
     "maMon": "INT1448",
@@ -195,7 +195,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "INT144802",
     "soTC": 3,
-    "daDangKyCount": 47
+    "daDangKyCount": 73
   },
   {
     "maMon": "INT1448",
@@ -217,7 +217,7 @@
     "tuanHoc": "9 10 18",
     "maLop": "INT144802",
     "soTC": 3,
-    "daDangKyCount": 47
+    "daDangKyCount": 73
   },
   {
     "maMon": "RIPT1411",
@@ -239,7 +239,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "RIPT141101",
     "soTC": 3,
-    "daDangKyCount": 15
+    "daDangKyCount": 20
   },
   {
     "maMon": "RIPT1411",
@@ -261,7 +261,7 @@
     "tuanHoc": "1 2 3 4 13 14 18",
     "maLop": "RIPT141101",
     "soTC": 3,
-    "daDangKyCount": 15
+    "daDangKyCount": 20
   },
   {
     "maMon": "RIPT1411",
@@ -283,7 +283,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1411",
@@ -305,7 +305,7 @@
     "tuanHoc": "7 10 13 16",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1411",
@@ -327,7 +327,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "RIPT141102",
     "soTC": 3,
-    "daDangKyCount": 0
+    "daDangKyCount": 19
   },
   {
     "maMon": "RIPT1411",
@@ -349,7 +349,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT141102",
     "soTC": 3,
-    "daDangKyCount": 0
+    "daDangKyCount": 19
   },
   {
     "maMon": "RIPT1411",
@@ -371,7 +371,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1411",
@@ -393,7 +393,7 @@
     "tuanHoc": "7 10 13 16",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1412",
@@ -415,7 +415,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "RIPT141201",
     "soTC": 3,
-    "daDangKyCount": 22
+    "daDangKyCount": 6
   },
   {
     "maMon": "RIPT1412",
@@ -437,7 +437,7 @@
     "tuanHoc": "1 2 3 4 13 14 18",
     "maLop": "RIPT141201",
     "soTC": 3,
-    "daDangKyCount": 22
+    "daDangKyCount": 6
   },
   {
     "maMon": "RIPT1412",
@@ -459,7 +459,7 @@
     "tuanHoc": "6 8 10 12 14",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1412",
@@ -481,7 +481,7 @@
     "tuanHoc": "7 9 11 13 15",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1412",
@@ -503,7 +503,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "RIPT141202",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 9
   },
   {
     "maMon": "RIPT1412",
@@ -525,7 +525,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT141202",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 9
   },
   {
     "maMon": "RIPT1412",
@@ -547,7 +547,7 @@
     "tuanHoc": "6 8 10 12 14",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1412",
@@ -569,7 +569,7 @@
     "tuanHoc": "7 9 11 13 15",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1413",
@@ -591,7 +591,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "RIPT141301",
     "soTC": 3,
-    "daDangKyCount": 33
+    "daDangKyCount": 28
   },
   {
     "maMon": "RIPT1413",
@@ -613,7 +613,7 @@
     "tuanHoc": "1 2 3 4 13 14 15 16 18",
     "maLop": "RIPT141301",
     "soTC": 3,
-    "daDangKyCount": 33
+    "daDangKyCount": 28
   },
   {
     "maMon": "RIPT1413",
@@ -635,7 +635,7 @@
     "tuanHoc": "7 8 18",
     "maLop": "RIPT141301",
     "soTC": 3,
-    "daDangKyCount": 33
+    "daDangKyCount": 28
   },
   {
     "maMon": "RIPT1413",
@@ -657,7 +657,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "RIPT141302",
     "soTC": 3,
-    "daDangKyCount": 38
+    "daDangKyCount": 1
   },
   {
     "maMon": "RIPT1413",
@@ -679,7 +679,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT141302",
     "soTC": 3,
-    "daDangKyCount": 38
+    "daDangKyCount": 1
   },
   {
     "maMon": "RIPT1413",
@@ -701,7 +701,7 @@
     "tuanHoc": "9 10 18",
     "maLop": "RIPT141302",
     "soTC": 3,
-    "daDangKyCount": 38
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1153",
@@ -722,8 +722,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "BAS115352",
-    "soTC": 3,
-    "daDangKyCount": 13
+    "soTC": 2,
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1153",
@@ -744,8 +744,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 18",
     "maLop": "BAS115352",
-    "soTC": 3,
-    "daDangKyCount": 13
+    "soTC": 2,
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1153",
@@ -766,8 +766,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "BAS115353",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 0
   },
   {
     "maMon": "BAS1153",
@@ -788,8 +788,8 @@
     "giangVien": "Nguyễn Thị Thơm",
     "tuanHoc": "1 2 3 4 5 6 18",
     "maLop": "BAS115353",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 0
   },
   {
     "maMon": "INT1405",
@@ -811,7 +811,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT140501",
     "soTC": 3,
-    "daDangKyCount": 31
+    "daDangKyCount": 35
   },
   {
     "maMon": "INT1405",
@@ -833,7 +833,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT140501",
     "soTC": 3,
-    "daDangKyCount": 31
+    "daDangKyCount": 35
   },
   {
     "maMon": "INT1405",
@@ -855,7 +855,7 @@
     "tuanHoc": "6 8 10 12",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1405",
@@ -877,7 +877,7 @@
     "tuanHoc": "5 7 9 11",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1405",
@@ -899,7 +899,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT140502",
     "soTC": 3,
-    "daDangKyCount": 29
+    "daDangKyCount": 8
   },
   {
     "maMon": "INT1405",
@@ -921,7 +921,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT140502",
     "soTC": 3,
-    "daDangKyCount": 29
+    "daDangKyCount": 8
   },
   {
     "maMon": "INT1405",
@@ -943,7 +943,7 @@
     "tuanHoc": "6 8 10 12",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1405",
@@ -965,7 +965,7 @@
     "tuanHoc": "5 7 9 11",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1422",
@@ -987,7 +987,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT142201",
     "soTC": 3,
-    "daDangKyCount": 28
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1422",
@@ -1009,7 +1009,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT142201",
     "soTC": 3,
-    "daDangKyCount": 28
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1422",
@@ -1031,7 +1031,7 @@
     "tuanHoc": "5 7 9 11",
     "maLop": "INT1422_01",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 11
   },
   {
     "maMon": "INT1422",
@@ -1053,7 +1053,7 @@
     "tuanHoc": "6 8 10 12",
     "maLop": "INT1422_01",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 11
   },
   {
     "maMon": "INT1422",
@@ -1075,7 +1075,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT142202",
     "soTC": 3,
-    "daDangKyCount": 16
+    "daDangKyCount": 10
   },
   {
     "maMon": "INT1422",
@@ -1097,7 +1097,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT142202",
     "soTC": 3,
-    "daDangKyCount": 16
+    "daDangKyCount": 10
   },
   {
     "maMon": "INT1422",
@@ -1119,7 +1119,7 @@
     "tuanHoc": "5 7 9 11",
     "maLop": "INT1422_02",
     "soTC": 0,
-    "daDangKyCount": 14
+    "daDangKyCount": 19
   },
   {
     "maMon": "INT1422",
@@ -1141,7 +1141,7 @@
     "tuanHoc": "6 8 10 12",
     "maLop": "INT1422_02",
     "soTC": 0,
-    "daDangKyCount": 14
+    "daDangKyCount": 19
   },
   {
     "maMon": "INT1445",
@@ -1163,7 +1163,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "INT144501",
     "soTC": 3,
-    "daDangKyCount": 9
+    "daDangKyCount": 51
   },
   {
     "maMon": "INT1445",
@@ -1185,7 +1185,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT144501",
     "soTC": 3,
-    "daDangKyCount": 9
+    "daDangKyCount": 51
   },
   {
     "maMon": "INT1498",
@@ -1207,7 +1207,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "INT149802",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 43
   },
   {
     "maMon": "INT1498",
@@ -1229,7 +1229,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT149802",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 43
   },
   {
     "maMon": "RIPT1417",
@@ -1251,7 +1251,7 @@
     "tuanHoc": "1 2 3 4 18",
     "maLop": "RIPT141701",
     "soTC": 0,
-    "daDangKyCount": 7
+    "daDangKyCount": 30
   },
   {
     "maMon": "RIPT1417",
@@ -1273,7 +1273,7 @@
     "tuanHoc": "3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1417",
@@ -1295,7 +1295,7 @@
     "tuanHoc": "3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1417",
@@ -1317,7 +1317,7 @@
     "tuanHoc": "1 2 3 4",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1417",
@@ -1339,7 +1339,7 @@
     "tuanHoc": "3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 16
   },
   {
     "maMon": "RIPT1417",
@@ -1361,7 +1361,7 @@
     "tuanHoc": "3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "RIPT141702",
     "soTC": 0,
-    "daDangKyCount": 0
+    "daDangKyCount": 17
   },
   {
     "maMon": "BAS1152",
@@ -1382,8 +1382,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "1 2 3 4 5 6 7 8 18",
     "maLop": "BAS115243",
-    "soTC": 3,
-    "daDangKyCount": 6
+    "soTC": 2,
+    "daDangKyCount": 37
   },
   {
     "maMon": "BAS1152",
@@ -1404,8 +1404,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "1 2 3 4 18",
     "maLop": "BAS115243",
-    "soTC": 3,
-    "daDangKyCount": 6
+    "soTC": 2,
+    "daDangKyCount": 37
   },
   {
     "maMon": "BAS1152",
@@ -1426,8 +1426,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "1 2 3 4 5 6 7 8 18",
     "maLop": "BAS115244",
-    "soTC": 3,
-    "daDangKyCount": 43
+    "soTC": 2,
+    "daDangKyCount": 41
   },
   {
     "maMon": "BAS1152",
@@ -1448,8 +1448,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "5 6 7 8 18",
     "maLop": "BAS115244",
-    "soTC": 3,
-    "daDangKyCount": 43
+    "soTC": 2,
+    "daDangKyCount": 41
   },
   {
     "maMon": "BAS1152",
@@ -1470,8 +1470,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "BAS115245",
-    "soTC": 3,
-    "daDangKyCount": 15
+    "soTC": 2,
+    "daDangKyCount": 44
   },
   {
     "maMon": "BAS1152",
@@ -1492,8 +1492,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "1 2 3 4 5 6 18",
     "maLop": "BAS115245",
-    "soTC": 3,
-    "daDangKyCount": 15
+    "soTC": 2,
+    "daDangKyCount": 44
   },
   {
     "maMon": "RIPT1305",
@@ -1514,8 +1514,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "9 10 11 12 13 14 15 16 18",
     "maLop": "RIPT130501",
-    "soTC": 3,
-    "daDangKyCount": 64
+    "soTC": 2,
+    "daDangKyCount": 70
   },
   {
     "maMon": "RIPT1305",
@@ -1536,8 +1536,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "13 14 15 16 18",
     "maLop": "RIPT130501",
-    "soTC": 3,
-    "daDangKyCount": 64
+    "soTC": 2,
+    "daDangKyCount": 70
   },
   {
     "maMon": "RIPT1305",
@@ -1559,7 +1559,7 @@
     "tuanHoc": "11 13 14 15 16",
     "maLop": "RIPT1305_01",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 7
   },
   {
     "maMon": "RIPT1305",
@@ -1581,7 +1581,7 @@
     "tuanHoc": "11 13 14 15 16",
     "maLop": "RIPT1305_01",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 7
   },
   {
     "maMon": "RIPT1305",
@@ -1603,7 +1603,7 @@
     "tuanHoc": "12 13 14 15 16",
     "maLop": "RIPT1305_01",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 7
   },
   {
     "maMon": "RIPT1305",
@@ -1625,7 +1625,7 @@
     "tuanHoc": "12 13 14 15 16",
     "maLop": "RIPT1305_01",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 7
   },
   {
     "maMon": "RIPT1305",
@@ -1646,8 +1646,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "9 10 11 12 13 14 15 16 18",
     "maLop": "RIPT130502",
-    "soTC": 3,
-    "daDangKyCount": 60
+    "soTC": 2,
+    "daDangKyCount": 11
   },
   {
     "maMon": "RIPT1305",
@@ -1668,8 +1668,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "9 10 11 12 18",
     "maLop": "RIPT130502",
-    "soTC": 3,
-    "daDangKyCount": 60
+    "soTC": 2,
+    "daDangKyCount": 11
   },
   {
     "maMon": "RIPT1305",
@@ -1779,7 +1779,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT144901",
     "soTC": 3,
-    "daDangKyCount": 8
+    "daDangKyCount": 25
   },
   {
     "maMon": "INT1449",
@@ -1801,7 +1801,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT144901",
     "soTC": 3,
-    "daDangKyCount": 8
+    "daDangKyCount": 25
   },
   {
     "maMon": "INT1449",
@@ -1823,7 +1823,7 @@
     "tuanHoc": "5 7 9",
     "maLop": "INT1449_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 10
   },
   {
     "maMon": "INT1449",
@@ -1845,7 +1845,7 @@
     "tuanHoc": "5 7 9",
     "maLop": "INT1449_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 10
   },
   {
     "maMon": "INT1449",
@@ -1867,7 +1867,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT144902",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 41
   },
   {
     "maMon": "INT1449",
@@ -1889,7 +1889,7 @@
     "tuanHoc": "1 2 3 4 13 14 18",
     "maLop": "INT144902",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 41
   },
   {
     "maMon": "INT1449",
@@ -1911,7 +1911,7 @@
     "tuanHoc": "5 9 13",
     "maLop": "INT1449_02",
     "soTC": 0,
-    "daDangKyCount": 19
+    "daDangKyCount": 17
   },
   {
     "maMon": "INT1449",
@@ -1933,7 +1933,7 @@
     "tuanHoc": "5 9 13",
     "maLop": "INT1449_02",
     "soTC": 0,
-    "daDangKyCount": 19
+    "daDangKyCount": 17
   },
   {
     "maMon": "INT1449",
@@ -1955,7 +1955,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "INT144903",
     "soTC": 3,
-    "daDangKyCount": 44
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1449",
@@ -1977,7 +1977,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "INT144903",
     "soTC": 3,
-    "daDangKyCount": 44
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1449",
@@ -1999,7 +1999,7 @@
     "tuanHoc": "6 10 14",
     "maLop": "INT1449_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1449",
@@ -2021,7 +2021,7 @@
     "tuanHoc": "6 10 14",
     "maLop": "INT1449_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2043,7 +2043,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT130619",
     "soTC": 3,
-    "daDangKyCount": 75
+    "daDangKyCount": 76
   },
   {
     "maMon": "INT1306",
@@ -2065,7 +2065,7 @@
     "tuanHoc": "1 2 3 4 13 14 15 16 18",
     "maLop": "INT130619",
     "soTC": 3,
-    "daDangKyCount": 75
+    "daDangKyCount": 76
   },
   {
     "maMon": "INT1306",
@@ -2087,7 +2087,7 @@
     "tuanHoc": "5 8 11",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2109,7 +2109,7 @@
     "tuanHoc": "5 8 11",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2131,7 +2131,7 @@
     "tuanHoc": "5 8 11",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2153,7 +2153,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT130620",
     "soTC": 3,
-    "daDangKyCount": 71
+    "daDangKyCount": 36
   },
   {
     "maMon": "INT1306",
@@ -2175,7 +2175,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "INT130620",
     "soTC": 3,
-    "daDangKyCount": 71
+    "daDangKyCount": 36
   },
   {
     "maMon": "INT1306",
@@ -2197,7 +2197,7 @@
     "tuanHoc": "6 9 12",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2219,7 +2219,7 @@
     "tuanHoc": "6 9 12",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2241,7 +2241,7 @@
     "tuanHoc": "6 9 12",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2263,7 +2263,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT130621",
     "soTC": 3,
-    "daDangKyCount": 72
+    "daDangKyCount": 27
   },
   {
     "maMon": "INT1306",
@@ -2285,7 +2285,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT130621",
     "soTC": 3,
-    "daDangKyCount": 72
+    "daDangKyCount": 27
   },
   {
     "maMon": "INT1306",
@@ -2307,7 +2307,7 @@
     "tuanHoc": "7 10 13",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2329,7 +2329,7 @@
     "tuanHoc": "7 10 13",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "INT1306",
@@ -2351,7 +2351,7 @@
     "tuanHoc": "7 10 13",
     "maLop": "3",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 2
   },
   {
     "maMon": "RIPT1304",
@@ -2373,7 +2373,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "RIPT130402",
     "soTC": 3,
-    "daDangKyCount": 10
+    "daDangKyCount": 31
   },
   {
     "maMon": "RIPT1304",
@@ -2395,7 +2395,7 @@
     "tuanHoc": "1 2 3 4 13 14 18",
     "maLop": "RIPT130402",
     "soTC": 3,
-    "daDangKyCount": 10
+    "daDangKyCount": 31
   },
   {
     "maMon": "RIPT1304",
@@ -2417,7 +2417,7 @@
     "tuanHoc": "5 8 11 14",
     "maLop": "RIPT1304_02",
     "soTC": 0,
-    "daDangKyCount": 11
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1304",
@@ -2439,7 +2439,7 @@
     "tuanHoc": "5 8 11 14",
     "maLop": "RIPT1304_02",
     "soTC": 0,
-    "daDangKyCount": 11
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1304",
@@ -2461,7 +2461,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "RIPT1304_02",
     "soTC": 0,
-    "daDangKyCount": 11
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1304",
@@ -2483,7 +2483,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "RIPT1304_02",
     "soTC": 0,
-    "daDangKyCount": 11
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1304",
@@ -2505,7 +2505,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "RIPT130403",
     "soTC": 3,
-    "daDangKyCount": 49
+    "daDangKyCount": 45
   },
   {
     "maMon": "RIPT1304",
@@ -2527,7 +2527,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT130403",
     "soTC": 3,
-    "daDangKyCount": 49
+    "daDangKyCount": 45
   },
   {
     "maMon": "RIPT1304",
@@ -2549,7 +2549,7 @@
     "tuanHoc": "5 8 11 14",
     "maLop": "RIPT1304_03",
     "soTC": 0,
-    "daDangKyCount": 7
+    "daDangKyCount": 13
   },
   {
     "maMon": "RIPT1304",
@@ -2571,7 +2571,7 @@
     "tuanHoc": "5 8 11 14",
     "maLop": "RIPT1304_03",
     "soTC": 0,
-    "daDangKyCount": 7
+    "daDangKyCount": 13
   },
   {
     "maMon": "RIPT1304",
@@ -2593,7 +2593,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "RIPT1304_03",
     "soTC": 0,
-    "daDangKyCount": 7
+    "daDangKyCount": 13
   },
   {
     "maMon": "RIPT1304",
@@ -2615,7 +2615,7 @@
     "tuanHoc": "6 9 12 15",
     "maLop": "RIPT1304_03",
     "soTC": 0,
-    "daDangKyCount": 7
+    "daDangKyCount": 13
   },
   {
     "maMon": "BAS1152",
@@ -2636,8 +2636,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "9 10 11 12 13 14 15 16 18",
     "maLop": "BAS115246",
-    "soTC": 3,
-    "daDangKyCount": 10
+    "soTC": 2,
+    "daDangKyCount": 38
   },
   {
     "maMon": "BAS1152",
@@ -2658,8 +2658,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "13 14 15 16 18",
     "maLop": "BAS115246",
-    "soTC": 3,
-    "daDangKyCount": 10
+    "soTC": 2,
+    "daDangKyCount": 38
   },
   {
     "maMon": "BAS1152",
@@ -2680,7 +2680,7 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "9 10 11 12 13 14 15 16 18",
     "maLop": "BAS115247",
-    "soTC": 3,
+    "soTC": 2,
     "daDangKyCount": 17
   },
   {
@@ -2702,7 +2702,7 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "9 10 11 12 18",
     "maLop": "BAS115247",
-    "soTC": 3,
+    "soTC": 2,
     "daDangKyCount": 17
   },
   {
@@ -2724,8 +2724,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "9 10 11 12 13 14 15 18",
     "maLop": "BAS115248",
-    "soTC": 3,
-    "daDangKyCount": 19
+    "soTC": 2,
+    "daDangKyCount": 22
   },
   {
     "maMon": "BAS1152",
@@ -2746,8 +2746,8 @@
     "giangVien": "Nguyễn Tài Quang",
     "tuanHoc": "9 10 11 12 13 14 18",
     "maLop": "BAS115248",
-    "soTC": 3,
-    "daDangKyCount": 19
+    "soTC": 2,
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1305",
@@ -2768,8 +2768,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "1 2 3 4 5 6 7 8 18",
     "maLop": "RIPT130504",
-    "soTC": 3,
-    "daDangKyCount": 9
+    "soTC": 2,
+    "daDangKyCount": 15
   },
   {
     "maMon": "RIPT1305",
@@ -2790,8 +2790,8 @@
     "giangVien": "Nguyễn Huy Trung",
     "tuanHoc": "1 2 3 4 18",
     "maLop": "RIPT130504",
-    "soTC": 3,
-    "daDangKyCount": 9
+    "soTC": 2,
+    "daDangKyCount": 15
   },
   {
     "maMon": "RIPT1305",
@@ -2813,7 +2813,7 @@
     "tuanHoc": "3 5 6 7 8",
     "maLop": "RIPT1305_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 4
   },
   {
     "maMon": "RIPT1305",
@@ -2835,7 +2835,7 @@
     "tuanHoc": "3 5 6 7 8",
     "maLop": "RIPT1305_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 4
   },
   {
     "maMon": "RIPT1305",
@@ -2857,7 +2857,7 @@
     "tuanHoc": "4 5 6 7 8",
     "maLop": "RIPT1305_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 4
   },
   {
     "maMon": "RIPT1305",
@@ -2879,7 +2879,7 @@
     "tuanHoc": "4 5 6 7 8",
     "maLop": "RIPT1305_03",
     "soTC": 0,
-    "daDangKyCount": 20
+    "daDangKyCount": 4
   },
   {
     "maMon": "RIPT1303",
@@ -2900,8 +2900,8 @@
     "giangVien": "Nguyễn Xuân Dũng",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 12
+    "soTC": 4,
+    "daDangKyCount": 24
   },
   {
     "maMon": "RIPT1303",
@@ -2922,8 +2922,8 @@
     "giangVien": "Nguyễn Xuân Dũng",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 12
+    "soTC": 4,
+    "daDangKyCount": 24
   },
   {
     "maMon": "RIPT1303",
@@ -2945,7 +2945,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 13 14",
     "maLop": "4",
     "soTC": 0,
-    "daDangKyCount": 12
+    "daDangKyCount": 24
   },
   {
     "maMon": "BAS1160",
@@ -2966,8 +2966,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "2",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 10
   },
   {
     "maMon": "BAS1160",
@@ -2988,8 +2988,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "2",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 10
   },
   {
     "maMon": "BAS1160",
@@ -3010,8 +3010,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "2",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 10
   },
   {
     "maMon": "BAS1160",
@@ -3032,8 +3032,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "2",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 10
   },
   {
     "maMon": "BAS1160",
@@ -3054,8 +3054,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15 16",
     "maLop": "2",
-    "soTC": 3,
-    "daDangKyCount": 25
+    "soTC": 2,
+    "daDangKyCount": 10
   },
   {
     "maMon": "INT1449",
@@ -3077,7 +3077,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT144904",
     "soTC": 3,
-    "daDangKyCount": 30
+    "daDangKyCount": 13
   },
   {
     "maMon": "INT1449",
@@ -3099,7 +3099,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT144904",
     "soTC": 3,
-    "daDangKyCount": 30
+    "daDangKyCount": 13
   },
   {
     "maMon": "INT1449",
@@ -3121,7 +3121,7 @@
     "tuanHoc": "6 8 10",
     "maLop": "INT1449_04",
     "soTC": 0,
-    "daDangKyCount": 13
+    "daDangKyCount": 0
   },
   {
     "maMon": "INT1449",
@@ -3143,7 +3143,7 @@
     "tuanHoc": "6 8 10",
     "maLop": "INT1449_04",
     "soTC": 0,
-    "daDangKyCount": 13
+    "daDangKyCount": 0
   },
   {
     "maMon": "INT1449",
@@ -3165,7 +3165,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT144905",
     "soTC": 3,
-    "daDangKyCount": 41
+    "daDangKyCount": 40
   },
   {
     "maMon": "INT1449",
@@ -3187,7 +3187,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT144905",
     "soTC": 3,
-    "daDangKyCount": 41
+    "daDangKyCount": 40
   },
   {
     "maMon": "INT1449",
@@ -3209,7 +3209,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "INT1449_05",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1449",
@@ -3231,7 +3231,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "INT1449_05",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1449",
@@ -3253,7 +3253,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT144906",
     "soTC": 3,
-    "daDangKyCount": 40
+    "daDangKyCount": 15
   },
   {
     "maMon": "INT1449",
@@ -3275,7 +3275,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "INT144906",
     "soTC": 3,
-    "daDangKyCount": 40
+    "daDangKyCount": 15
   },
   {
     "maMon": "INT1449",
@@ -3297,7 +3297,7 @@
     "tuanHoc": "8 12 16",
     "maLop": "INT1449_06",
     "soTC": 0,
-    "daDangKyCount": 2
+    "daDangKyCount": 21
   },
   {
     "maMon": "INT1449",
@@ -3319,7 +3319,7 @@
     "tuanHoc": "8 12 16",
     "maLop": "INT1449_06",
     "soTC": 0,
-    "daDangKyCount": 2
+    "daDangKyCount": 21
   },
   {
     "maMon": "RIPT1304",
@@ -3341,7 +3341,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT130405",
     "soTC": 3,
-    "daDangKyCount": 40
+    "daDangKyCount": 79
   },
   {
     "maMon": "RIPT1304",
@@ -3363,7 +3363,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 18",
     "maLop": "RIPT130405",
     "soTC": 3,
-    "daDangKyCount": 40
+    "daDangKyCount": 79
   },
   {
     "maMon": "RIPT1304",
@@ -3385,7 +3385,7 @@
     "tuanHoc": "7 10 13 16",
     "maLop": "RIPT1304_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 6
   },
   {
     "maMon": "RIPT1304",
@@ -3407,7 +3407,7 @@
     "tuanHoc": "7 10 13 16",
     "maLop": "RIPT1304_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 6
   },
   {
     "maMon": "RIPT1304",
@@ -3429,7 +3429,7 @@
     "tuanHoc": "7 10 13 16",
     "maLop": "RIPT1304_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 6
   },
   {
     "maMon": "RIPT1304",
@@ -3451,7 +3451,7 @@
     "tuanHoc": "7 10 16",
     "maLop": "RIPT1304_01",
     "soTC": 0,
-    "daDangKyCount": 16
+    "daDangKyCount": 6
   },
   {
     "maMon": "BAS1150",
@@ -3473,7 +3473,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "BAS115010",
     "soTC": 3,
-    "daDangKyCount": 24
+    "daDangKyCount": 41
   },
   {
     "maMon": "BAS1150",
@@ -3495,7 +3495,7 @@
     "tuanHoc": "1 2 3 4 18",
     "maLop": "BAS115010",
     "soTC": 3,
-    "daDangKyCount": 24
+    "daDangKyCount": 41
   },
   {
     "maMon": "BAS1150",
@@ -3517,7 +3517,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 18",
     "maLop": "BAS115011",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 29
   },
   {
     "maMon": "BAS1150",
@@ -3539,7 +3539,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "BAS115011",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 29
   },
   {
     "maMon": "BAS1150",
@@ -3561,7 +3561,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 18",
     "maLop": "BAS115012",
     "soTC": 3,
-    "daDangKyCount": 25
+    "daDangKyCount": 14
   },
   {
     "maMon": "BAS1150",
@@ -3583,7 +3583,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 18",
     "maLop": "BAS115013",
     "soTC": 3,
-    "daDangKyCount": 12
+    "daDangKyCount": 4
   },
   {
     "maMon": "BAS1150",
@@ -3605,7 +3605,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "BAS115014",
     "soTC": 3,
-    "daDangKyCount": 5
+    "daDangKyCount": 27
   },
   {
     "maMon": "BAS1150",
@@ -3627,7 +3627,7 @@
     "tuanHoc": "1 2 3 4 18",
     "maLop": "BAS115014",
     "soTC": 3,
-    "daDangKyCount": 5
+    "daDangKyCount": 27
   },
   {
     "maMon": "BAS1150",
@@ -3649,7 +3649,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 18",
     "maLop": "BAS115015",
     "soTC": 3,
-    "daDangKyCount": 26
+    "daDangKyCount": 32
   },
   {
     "maMon": "BAS1150",
@@ -3671,7 +3671,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "BAS115015",
     "soTC": 3,
-    "daDangKyCount": 26
+    "daDangKyCount": 32
   },
   {
     "maMon": "INT1358",
@@ -3693,7 +3693,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT135812",
     "soTC": 3,
-    "daDangKyCount": 72
+    "daDangKyCount": 23
   },
   {
     "maMon": "INT1358",
@@ -3715,7 +3715,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "INT135812",
     "soTC": 3,
-    "daDangKyCount": 72
+    "daDangKyCount": 23
   },
   {
     "maMon": "INT1358",
@@ -3737,7 +3737,7 @@
     "tuanHoc": "9 10 18",
     "maLop": "INT135812",
     "soTC": 3,
-    "daDangKyCount": 72
+    "daDangKyCount": 23
   },
   {
     "maMon": "INT1358",
@@ -3759,7 +3759,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "INT135813",
     "soTC": 3,
-    "daDangKyCount": 18
+    "daDangKyCount": 1
   },
   {
     "maMon": "INT1358",
@@ -3781,7 +3781,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT135813",
     "soTC": 3,
-    "daDangKyCount": 18
+    "daDangKyCount": 1
   },
   {
     "maMon": "INT1358",
@@ -3803,7 +3803,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "INT135814",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 64
   },
   {
     "maMon": "INT1358",
@@ -3825,7 +3825,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT135814",
     "soTC": 3,
-    "daDangKyCount": 13
+    "daDangKyCount": 64
   },
   {
     "maMon": "INT1332",
@@ -3847,7 +3847,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT133217",
     "soTC": 3,
-    "daDangKyCount": 14
+    "daDangKyCount": 42
   },
   {
     "maMon": "INT1332",
@@ -3869,7 +3869,7 @@
     "tuanHoc": "1 2 3 4 13 14 15 16 18",
     "maLop": "INT133217",
     "soTC": 3,
-    "daDangKyCount": 14
+    "daDangKyCount": 42
   },
   {
     "maMon": "INT1332",
@@ -3891,7 +3891,7 @@
     "tuanHoc": "5 9 13",
     "maLop": "INT1332_17",
     "soTC": 0,
-    "daDangKyCount": 5
+    "daDangKyCount": 13
   },
   {
     "maMon": "INT1332",
@@ -3913,7 +3913,7 @@
     "tuanHoc": "6 10 14",
     "maLop": "INT1332_17",
     "soTC": 0,
-    "daDangKyCount": 5
+    "daDangKyCount": 13
   },
   {
     "maMon": "INT1332",
@@ -3935,7 +3935,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "INT133218",
     "soTC": 3,
-    "daDangKyCount": 32
+    "daDangKyCount": 38
   },
   {
     "maMon": "INT1332",
@@ -3957,7 +3957,7 @@
     "tuanHoc": "5 6 7 8 9 10 11 12 18",
     "maLop": "INT133218",
     "soTC": 3,
-    "daDangKyCount": 32
+    "daDangKyCount": 38
   },
   {
     "maMon": "INT1332",
@@ -3979,7 +3979,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "INT1332_18",
     "soTC": 3,
-    "daDangKyCount": 3
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1332",
@@ -4001,7 +4001,7 @@
     "tuanHoc": "8 12 16",
     "maLop": "INT1332_18",
     "soTC": 3,
-    "daDangKyCount": 3
+    "daDangKyCount": 6
   },
   {
     "maMon": "INT1332",
@@ -4023,7 +4023,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT133219",
     "soTC": 3,
-    "daDangKyCount": 42
+    "daDangKyCount": 28
   },
   {
     "maMon": "INT1332",
@@ -4045,7 +4045,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT133219",
     "soTC": 3,
-    "daDangKyCount": 42
+    "daDangKyCount": 28
   },
   {
     "maMon": "INT1332",
@@ -4111,7 +4111,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "INT133220",
     "soTC": 3,
-    "daDangKyCount": 28
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1332",
@@ -4133,7 +4133,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "INT133220",
     "soTC": 3,
-    "daDangKyCount": 28
+    "daDangKyCount": 16
   },
   {
     "maMon": "INT1332",
@@ -4155,7 +4155,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "INT1332_20",
     "soTC": 3,
-    "daDangKyCount": 19
+    "daDangKyCount": 1
   },
   {
     "maMon": "INT1332",
@@ -4177,691 +4177,691 @@
     "tuanHoc": "8 12 16",
     "maLop": "INT1332_20",
     "soTC": 3,
+    "daDangKyCount": 1
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 49,
+    "nhom": "21",
+    "toHap": "",
+    "toTH": "",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "1",
+    "soTiet": "2",
+    "phong": "501",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "INT133221",
+    "soTC": 3,
+    "daDangKyCount": 17
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 49,
+    "nhom": "21",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "3",
+    "soTiet": "1",
+    "phong": "501",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "1 2 3 4 13 14 15 16 18",
+    "maLop": "INT133221",
+    "soTC": 3,
+    "daDangKyCount": 17
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 25,
+    "nhom": "21",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "503",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "5 9 13",
+    "maLop": "INT1332_21",
+    "soTC": 0,
+    "daDangKyCount": 16
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 25,
+    "nhom": "21",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "503",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "6 10 14",
+    "maLop": "INT1332_21",
+    "soTC": 0,
+    "daDangKyCount": 16
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 49,
+    "nhom": "22",
+    "toHap": "",
+    "toTH": "",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "4",
+    "soTiet": "2",
+    "phong": "501",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "INT133222",
+    "soTC": 3,
+    "daDangKyCount": 32
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 49,
+    "nhom": "22",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "3",
+    "soTiet": "1",
+    "phong": "501",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "5 6 7 8 9 10 11 12 18",
+    "maLop": "INT133222",
+    "soTC": 3,
+    "daDangKyCount": 32
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 25,
+    "nhom": "22",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "503",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "7 11 15",
+    "maLop": "INT1332_22",
+    "soTC": 0,
+    "daDangKyCount": 18
+  },
+  {
+    "maMon": "INT1332",
+    "tenMon": "Lập trình hướng đối tượng",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 25,
+    "nhom": "22",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "503",
+    "nha": "HQV",
+    "giangVien": "Nguyễn Việt Dũng",
+    "tuanHoc": "8 12 16",
+    "maLop": "INT1332_22",
+    "soTC": 0,
+    "daDangKyCount": 18
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "01",
+    "toHap": "",
+    "toTH": "",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "1",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "RIPT130601",
+    "soTC": 3,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "01",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "3",
+    "soTiet": "1",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "1 2 3 4 13 14 15 16 18",
+    "maLop": "RIPT130601",
+    "soTC": 3,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "01",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "5 9 13",
+    "maLop": "RIPT1306_01",
+    "soTC": 0,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "01",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "6 10 14",
+    "maLop": "RIPT1306_01",
+    "soTC": 0,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "02",
+    "toHap": "",
+    "toTH": "",
+    "thu": "4",
+    "kip": "2",
+    "tietBD": "4",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "RIPT130602",
+    "soTC": 3,
+    "daDangKyCount": 5
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "02",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "4",
+    "kip": "2",
+    "tietBD": "3",
+    "soTiet": "1",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "5 6 7 8 9 10 11 12 18",
+    "maLop": "RIPT130602",
+    "soTC": 3,
+    "daDangKyCount": 5
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "02",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "7 11 15",
+    "maLop": "RIPT1306_02",
+    "soTC": 0,
+    "daDangKyCount": 8
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "02",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "8 12 16",
+    "maLop": "RIPT1306_02",
+    "soTC": 0,
+    "daDangKyCount": 8
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "03",
+    "toHap": "",
+    "toTH": "",
+    "thu": "4",
+    "kip": "3",
+    "tietBD": "8",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
+    "maLop": "RIPT130603",
+    "soTC": 3,
+    "daDangKyCount": 40
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "03",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "4",
+    "kip": "3",
+    "tietBD": "7",
+    "soTiet": "1",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
+    "maLop": "RIPT130603",
+    "soTC": 3,
+    "daDangKyCount": 40
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "03",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "7",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "5 9 13",
+    "maLop": "RIPT1306_03",
+    "soTC": 0,
+    "daDangKyCount": 17
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "03",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "7",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Phan Quang Thành",
+    "tuanHoc": "6 10 14",
+    "maLop": "RIPT1306_03",
+    "soTC": 0,
+    "daDangKyCount": 17
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "04",
+    "toHap": "",
+    "toTH": "",
+    "thu": "4",
+    "kip": "4",
+    "tietBD": "10",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
+    "maLop": "RIPT130604",
+    "soTC": 3,
+    "daDangKyCount": 35
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "04",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "4",
+    "kip": "4",
+    "tietBD": "12",
+    "soTiet": "1",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
+    "maLop": "RIPT130604",
+    "soTC": 3,
+    "daDangKyCount": 35
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "04",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "7",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "7 11 15",
+    "maLop": "RIPT1306_04",
+    "soTC": 0,
+    "daDangKyCount": 16
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "04",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "7",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "8 12 16",
+    "maLop": "RIPT1306_04",
+    "soTC": 0,
+    "daDangKyCount": 16
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "05",
+    "toHap": "",
+    "toTH": "",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "1",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "RIPT130605",
+    "soTC": 3,
+    "daDangKyCount": 25
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "05",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "5",
+    "kip": "1",
+    "tietBD": "3",
+    "soTiet": "1",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "1 2 3 4 13 14 15 16 18",
+    "maLop": "RIPT130605",
+    "soTC": 3,
+    "daDangKyCount": 25
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "05",
+    "toHap": "",
+    "toTH": "1",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "5 9 13",
+    "maLop": "RIPT1306_05",
+    "soTC": 0,
+    "daDangKyCount": 11
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 23,
+    "nhom": "05",
+    "toHap": "",
+    "toTH": "2",
+    "thu": "4",
+    "kip": "1",
+    "tietBD": "2",
+    "soTiet": "4",
+    "phong": "201",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "6 10 14",
+    "maLop": "RIPT1306_05",
+    "soTC": 0,
+    "daDangKyCount": 11
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "06",
+    "toHap": "",
+    "toTH": "",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "4",
+    "soTiet": "4",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
+    "maLop": "RIPT130606",
+    "soTC": 3,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "RIPT1306",
+    "tenMon": "Lập trình Web",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "CC",
+    "sySo": 46,
+    "nhom": "06",
+    "toHap": "01",
+    "toTH": "",
+    "thu": "5",
+    "kip": "2",
+    "tietBD": "3",
+    "soTiet": "4",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Trương Tuấn Anh",
+    "tuanHoc": "5 6 7 8 9 10 11 12 18",
+    "maLop": "RIPT130606",
+    "soTC": 3,
+    "daDangKyCount": 15
+  },
+  {
+    "maMon": "BAS1151",
+    "tenMon": "Kinh tế chính trị Mác-Lênin",
+    "khoa": "D25",
+    "he": "Tiên tiến",
+    "nganh": "TV",
+    "sySo": 39,
+    "nhom": "13",
+    "toHap": "",
+    "toTH": "",
+    "thu": "3",
+    "kip": "3",
+    "tietBD": "8",
+    "soTiet": "2",
+    "phong": "HT2",
+    "nha": "HQV",
+    "giangVien": "Đỗ Thị Thanh Loan",
+    "tuanHoc": "9 10 11 12 13 14 15 18",
+    "maLop": "BAS115113",
+    "soTC": 2,
     "daDangKyCount": 19
   },
   {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 49,
-    "nhom": "21",
-    "toHap": "",
-    "toTH": "",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "1",
-    "soTiet": "2",
-    "phong": "501",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "INT133221",
-    "soTC": 3,
-    "daDangKyCount": 41
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 49,
-    "nhom": "21",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "3",
-    "soTiet": "1",
-    "phong": "501",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "1 2 3 4 13 14 15 16 18",
-    "maLop": "INT133221",
-    "soTC": 3,
-    "daDangKyCount": 41
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 25,
-    "nhom": "21",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "503",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "5 9 13",
-    "maLop": "INT1332_21",
-    "soTC": 0,
-    "daDangKyCount": 15
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 25,
-    "nhom": "21",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "503",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "6 10 14",
-    "maLop": "INT1332_21",
-    "soTC": 0,
-    "daDangKyCount": 15
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 49,
-    "nhom": "22",
-    "toHap": "",
-    "toTH": "",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "4",
-    "soTiet": "2",
-    "phong": "501",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "INT133222",
-    "soTC": 3,
-    "daDangKyCount": 7
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 49,
-    "nhom": "22",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "3",
-    "soTiet": "1",
-    "phong": "501",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "5 6 7 8 9 10 11 12 18",
-    "maLop": "INT133222",
-    "soTC": 3,
-    "daDangKyCount": 7
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 25,
-    "nhom": "22",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "503",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "7 11 15",
-    "maLop": "INT1332_22",
-    "soTC": 0,
-    "daDangKyCount": 10
-  },
-  {
-    "maMon": "INT1332",
-    "tenMon": "Lập trình hướng đối tượng",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 25,
-    "nhom": "22",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "503",
-    "nha": "HQV",
-    "giangVien": "Nguyễn Việt Dũng",
-    "tuanHoc": "8 12 16",
-    "maLop": "INT1332_22",
-    "soTC": 0,
-    "daDangKyCount": 10
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "01",
-    "toHap": "",
-    "toTH": "",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "1",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "RIPT130601",
-    "soTC": 3,
-    "daDangKyCount": 42
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "01",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "3",
-    "soTiet": "1",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "1 2 3 4 13 14 15 16 18",
-    "maLop": "RIPT130601",
-    "soTC": 3,
-    "daDangKyCount": 42
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "01",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "5 9 13",
-    "maLop": "RIPT1306_01",
-    "soTC": 0,
-    "daDangKyCount": 6
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "01",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "6 10 14",
-    "maLop": "RIPT1306_01",
-    "soTC": 0,
-    "daDangKyCount": 6
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "02",
-    "toHap": "",
-    "toTH": "",
-    "thu": "4",
-    "kip": "2",
-    "tietBD": "4",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "RIPT130602",
-    "soTC": 3,
-    "daDangKyCount": 13
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "02",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "4",
-    "kip": "2",
-    "tietBD": "3",
-    "soTiet": "1",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "5 6 7 8 9 10 11 12 18",
-    "maLop": "RIPT130602",
-    "soTC": 3,
-    "daDangKyCount": 13
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "02",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "7 11 15",
-    "maLop": "RIPT1306_02",
-    "soTC": 0,
-    "daDangKyCount": 5
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "02",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "8 12 16",
-    "maLop": "RIPT1306_02",
-    "soTC": 0,
-    "daDangKyCount": 5
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "03",
-    "toHap": "",
-    "toTH": "",
-    "thu": "4",
-    "kip": "3",
-    "tietBD": "8",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
-    "maLop": "RIPT130603",
-    "soTC": 3,
-    "daDangKyCount": 15
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "03",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "4",
-    "kip": "3",
-    "tietBD": "7",
-    "soTiet": "1",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
-    "maLop": "RIPT130603",
-    "soTC": 3,
-    "daDangKyCount": 15
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "03",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "7",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "5 9 13",
-    "maLop": "RIPT1306_03",
-    "soTC": 0,
-    "daDangKyCount": 11
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "03",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "7",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Phan Quang Thành",
-    "tuanHoc": "6 10 14",
-    "maLop": "RIPT1306_03",
-    "soTC": 0,
-    "daDangKyCount": 11
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "04",
-    "toHap": "",
-    "toTH": "",
-    "thu": "4",
-    "kip": "4",
-    "tietBD": "10",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
-    "maLop": "RIPT130604",
-    "soTC": 3,
-    "daDangKyCount": 10
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "04",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "4",
-    "kip": "4",
-    "tietBD": "12",
-    "soTiet": "1",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
-    "maLop": "RIPT130604",
-    "soTC": 3,
-    "daDangKyCount": 10
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "04",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "7",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "7 11 15",
-    "maLop": "RIPT1306_04",
-    "soTC": 0,
-    "daDangKyCount": 8
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "04",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "7",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "8 12 16",
-    "maLop": "RIPT1306_04",
-    "soTC": 0,
-    "daDangKyCount": 8
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "05",
-    "toHap": "",
-    "toTH": "",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "1",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "RIPT130605",
-    "soTC": 3,
-    "daDangKyCount": 13
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "05",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "5",
-    "kip": "1",
-    "tietBD": "3",
-    "soTiet": "1",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "1 2 3 4 13 14 15 16 18",
-    "maLop": "RIPT130605",
-    "soTC": 3,
-    "daDangKyCount": 13
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "05",
-    "toHap": "",
-    "toTH": "1",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "5 9 13",
-    "maLop": "RIPT1306_05",
-    "soTC": 0,
-    "daDangKyCount": 1
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 23,
-    "nhom": "05",
-    "toHap": "",
-    "toTH": "2",
-    "thu": "4",
-    "kip": "1",
-    "tietBD": "2",
-    "soTiet": "4",
-    "phong": "201",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "6 10 14",
-    "maLop": "RIPT1306_05",
-    "soTC": 0,
-    "daDangKyCount": 1
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "06",
-    "toHap": "",
-    "toTH": "",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "4",
-    "soTiet": "4",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
-    "maLop": "RIPT130606",
-    "soTC": 3,
-    "daDangKyCount": 38
-  },
-  {
-    "maMon": "RIPT1306",
-    "tenMon": "Lập trình Web",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "CC",
-    "sySo": 46,
-    "nhom": "06",
-    "toHap": "01",
-    "toTH": "",
-    "thu": "5",
-    "kip": "2",
-    "tietBD": "3",
-    "soTiet": "4",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Trương Tuấn Anh",
-    "tuanHoc": "5 6 7 8 9 10 11 12 18",
-    "maLop": "RIPT130606",
-    "soTC": 3,
-    "daDangKyCount": 38
-  },
-  {
-    "maMon": "BAS1151",
-    "tenMon": "Kinh tế chính trị Mác-Lênin",
-    "khoa": "D25",
-    "he": "Tiên tiến",
-    "nganh": "TV",
-    "sySo": 39,
-    "nhom": "13",
-    "toHap": "",
-    "toTH": "",
-    "thu": "3",
-    "kip": "3",
-    "tietBD": "8",
-    "soTiet": "2",
-    "phong": "HT2",
-    "nha": "HQV",
-    "giangVien": "Đỗ Thị Thanh Loan",
-    "tuanHoc": "9 10 11 12 13 14 15 18",
-    "maLop": "BAS115113",
-    "soTC": 3,
-    "daDangKyCount": 15
-  },
-  {
     "maMon": "BAS1151",
     "tenMon": "Kinh tế chính trị Mác-Lênin",
     "khoa": "D25",
@@ -4880,8 +4880,8 @@
     "giangVien": "Đỗ Thị Thanh Loan",
     "tuanHoc": "9 10 11 12 13 14 18",
     "maLop": "BAS115113",
-    "soTC": 3,
-    "daDangKyCount": 15
+    "soTC": 2,
+    "daDangKyCount": 19
   },
   {
     "maMon": "BAS1151",
@@ -4902,8 +4902,8 @@
     "giangVien": "Đỗ Thị Thanh Loan",
     "tuanHoc": "9 10 11 12 13 14 15 18",
     "maLop": "BAS115114",
-    "soTC": 3,
-    "daDangKyCount": 17
+    "soTC": 2,
+    "daDangKyCount": 23
   },
   {
     "maMon": "BAS1151",
@@ -4924,8 +4924,8 @@
     "giangVien": "Đỗ Thị Thanh Loan",
     "tuanHoc": "9 10 11 12 13 14 18",
     "maLop": "BAS115114",
-    "soTC": 3,
-    "daDangKyCount": 17
+    "soTC": 2,
+    "daDangKyCount": 23
   },
   {
     "maMon": "BAS1225",
@@ -4946,8 +4946,8 @@
     "giangVien": "Lê Thị Minh Thanh",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "BAS122507",
-    "soTC": 3,
-    "daDangKyCount": 28
+    "soTC": 4,
+    "daDangKyCount": 25
   },
   {
     "maMon": "BAS1225",
@@ -4968,8 +4968,8 @@
     "giangVien": "Lê Thị Minh Thanh",
     "tuanHoc": "1 18",
     "maLop": "BAS122507",
-    "soTC": 3,
-    "daDangKyCount": 28
+    "soTC": 4,
+    "daDangKyCount": 25
   },
   {
     "maMon": "BAS1225",
@@ -4990,8 +4990,8 @@
     "giangVien": "Lê Thị Minh Thanh",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18",
     "maLop": "BAS122508",
-    "soTC": 3,
-    "daDangKyCount": 13
+    "soTC": 4,
+    "daDangKyCount": 17
   },
   {
     "maMon": "BAS1225",
@@ -5012,8 +5012,8 @@
     "giangVien": "Lê Thị Minh Thanh",
     "tuanHoc": "2 18",
     "maLop": "BAS122508",
-    "soTC": 3,
-    "daDangKyCount": 13
+    "soTC": 4,
+    "daDangKyCount": 17
   },
   {
     "maMon": "TEL1338",
@@ -5034,8 +5034,8 @@
     "giangVien": "Trần Huy Long",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 18",
     "maLop": "TEL133807",
-    "soTC": 3,
-    "daDangKyCount": 34
+    "soTC": 2,
+    "daDangKyCount": 24
   },
   {
     "maMon": "TEL1338",
@@ -5056,8 +5056,8 @@
     "giangVien": "Trần Huy Long",
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 18",
     "maLop": "TEL133808",
-    "soTC": 3,
-    "daDangKyCount": 2
+    "soTC": 2,
+    "daDangKyCount": 33
   },
   {
     "maMon": "ELE13105",
@@ -5079,7 +5079,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13",
     "maLop": "3",
     "soTC": 3,
-    "daDangKyCount": 27
+    "daDangKyCount": 10
   },
   {
     "maMon": "ELE13105",
@@ -5101,7 +5101,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13",
     "maLop": "3",
     "soTC": 3,
-    "daDangKyCount": 27
+    "daDangKyCount": 10
   },
   {
     "maMon": "RIPT1306",
@@ -5123,7 +5123,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "RIPT130607",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 5
   },
   {
     "maMon": "RIPT1306",
@@ -5145,7 +5145,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "RIPT130607",
     "soTC": 3,
-    "daDangKyCount": 6
+    "daDangKyCount": 5
   },
   {
     "maMon": "RIPT1306",
@@ -5167,7 +5167,7 @@
     "tuanHoc": "5 9 13",
     "maLop": "RIPT1306_07",
     "soTC": 0,
-    "daDangKyCount": 15
+    "daDangKyCount": 20
   },
   {
     "maMon": "RIPT1306",
@@ -5189,7 +5189,7 @@
     "tuanHoc": "6 10 14",
     "maLop": "RIPT1306_07",
     "soTC": 0,
-    "daDangKyCount": 15
+    "daDangKyCount": 20
   },
   {
     "maMon": "RIPT1306",
@@ -5211,7 +5211,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 18",
     "maLop": "RIPT130608",
     "soTC": 3,
-    "daDangKyCount": 34
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1306",
@@ -5233,7 +5233,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "RIPT130608",
     "soTC": 3,
-    "daDangKyCount": 34
+    "daDangKyCount": 22
   },
   {
     "maMon": "RIPT1306",
@@ -5255,7 +5255,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "RIPT1306_08",
     "soTC": 0,
-    "daDangKyCount": 1
+    "daDangKyCount": 0
   },
   {
     "maMon": "RIPT1306",
@@ -5277,7 +5277,7 @@
     "tuanHoc": "8 12 16",
     "maLop": "RIPT1306_08",
     "soTC": 0,
-    "daDangKyCount": 1
+    "daDangKyCount": 0
   },
   {
     "maMon": "TEL1368",
@@ -5299,7 +5299,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "TEL136807",
     "soTC": 3,
-    "daDangKyCount": 12
+    "daDangKyCount": 18
   },
   {
     "maMon": "TEL1368",
@@ -5321,7 +5321,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "TEL136807",
     "soTC": 3,
-    "daDangKyCount": 12
+    "daDangKyCount": 18
   },
   {
     "maMon": "TEL1368",
@@ -5343,7 +5343,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18",
     "maLop": "TEL136808",
     "soTC": 3,
-    "daDangKyCount": 12
+    "daDangKyCount": 15
   },
   {
     "maMon": "TEL1368",
@@ -5365,7 +5365,7 @@
     "tuanHoc": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 18",
     "maLop": "TEL136808",
     "soTC": 3,
-    "daDangKyCount": 12
+    "daDangKyCount": 15
   },
   {
     "maMon": "RIPT1306",
@@ -5387,7 +5387,7 @@
     "tuanHoc": "7 11 15",
     "maLop": "RIPT1306_06",
     "soTC": 0,
-    "daDangKyCount": 5
+    "daDangKyCount": 2
   },
   {
     "maMon": "RIPT1306",
@@ -5409,7 +5409,7 @@
     "tuanHoc": "8 12 16",
     "maLop": "RIPT1306_06",
     "soTC": 0,
-    "daDangKyCount": 5
+    "daDangKyCount": 2
   },
   {
     "maMon": "SKD1111",
@@ -5430,8 +5430,8 @@
     "giangVien": "Từ Thảo Hương Giang",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111110",
-    "soTC": 3,
-    "daDangKyCount": 37
+    "soTC": 1,
+    "daDangKyCount": 8
   },
   {
     "maMon": "SKD1111",
@@ -5452,8 +5452,8 @@
     "giangVien": "Từ Thảo Hương Giang",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111111",
-    "soTC": 3,
-    "daDangKyCount": 20
+    "soTC": 1,
+    "daDangKyCount": 29
   },
   {
     "maMon": "SKD1111",
@@ -5474,8 +5474,8 @@
     "giangVien": "Từ Thảo Hương Giang",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111112",
-    "soTC": 3,
-    "daDangKyCount": 33
+    "soTC": 1,
+    "daDangKyCount": 38
   },
   {
     "maMon": "SKD1111",
@@ -5496,8 +5496,8 @@
     "giangVien": "Từ Thảo Hương Giang",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111113",
-    "soTC": 3,
-    "daDangKyCount": 32
+    "soTC": 1,
+    "daDangKyCount": 36
   },
   {
     "maMon": "SKD1111",
@@ -5518,8 +5518,8 @@
     "giangVien": "Nguyễn Thị Ngọc Anh",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111114",
-    "soTC": 3,
-    "daDangKyCount": 18
+    "soTC": 1,
+    "daDangKyCount": 10
   },
   {
     "maMon": "SKD1111",
@@ -5540,8 +5540,8 @@
     "giangVien": "Nguyễn Thị Ngọc Anh",
     "tuanHoc": "1 2 3 4 5 6 7 18",
     "maLop": "SKD111115",
-    "soTC": 3,
-    "daDangKyCount": 8
+    "soTC": 1,
+    "daDangKyCount": 38
   },
   {
     "maMon": "SKD1101",
@@ -5562,8 +5562,8 @@
     "giangVien": "Tạ Quốc Đạt",
     "tuanHoc": "6 7 8 9 10 18",
     "maLop": "SKD110116",
-    "soTC": 3,
-    "daDangKyCount": 14
+    "soTC": 1,
+    "daDangKyCount": 16
   },
   {
     "maMon": "SKD1101",
@@ -5584,8 +5584,8 @@
     "giangVien": "Tạ Quốc Đạt",
     "tuanHoc": "6 7 8 9 10 18",
     "maLop": "SKD110117",
-    "soTC": 3,
-    "daDangKyCount": 19
+    "soTC": 1,
+    "daDangKyCount": 11
   },
   {
     "maMon": "BAS1225",
@@ -5607,7 +5607,7 @@
     "tuanHoc": "5",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5629,7 +5629,7 @@
     "tuanHoc": "6",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5651,7 +5651,7 @@
     "tuanHoc": "7",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5673,7 +5673,7 @@
     "tuanHoc": "8",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5695,7 +5695,7 @@
     "tuanHoc": "5",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5717,7 +5717,7 @@
     "tuanHoc": "6",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5739,7 +5739,7 @@
     "tuanHoc": "7",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5761,7 +5761,7 @@
     "tuanHoc": "8",
     "maLop": "BAS1225_07",
     "soTC": 0,
-    "daDangKyCount": 4
+    "daDangKyCount": 1
   },
   {
     "maMon": "BAS1225",
@@ -5783,7 +5783,7 @@
     "tuanHoc": "5",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5805,7 +5805,7 @@
     "tuanHoc": "6",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5827,7 +5827,7 @@
     "tuanHoc": "7",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5849,7 +5849,7 @@
     "tuanHoc": "8",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5871,7 +5871,7 @@
     "tuanHoc": "5",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5893,7 +5893,7 @@
     "tuanHoc": "6",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5915,7 +5915,7 @@
     "tuanHoc": "7",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "BAS1225",
@@ -5937,7 +5937,7 @@
     "tuanHoc": "8",
     "maLop": "BAS1225_08",
     "soTC": 0,
-    "daDangKyCount": 10
+    "daDangKyCount": 15
   },
   {
     "maMon": "ELE13105",
@@ -5959,7 +5959,7 @@
     "tuanHoc": "9 11 13",
     "maLop": "ELE13105_03",
     "soTC": 0,
-    "daDangKyCount": 9
+    "daDangKyCount": 1
   },
   {
     "maMon": "ELE13105",
@@ -5981,7 +5981,7 @@
     "tuanHoc": "10 12 14",
     "maLop": "ELE13105_03",
     "soTC": 0,
-    "daDangKyCount": 9
+    "daDangKyCount": 1
   },
   {
     "maMon": "ELE13105",
@@ -6003,7 +6003,7 @@
     "tuanHoc": "9 11 13",
     "maLop": "ELE13105_04",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 17
   },
   {
     "maMon": "ELE13105",
@@ -6025,7 +6025,7 @@
     "tuanHoc": "9 11 13",
     "maLop": "ELE13105_04",
     "soTC": 0,
-    "daDangKyCount": 6
+    "daDangKyCount": 17
   },
   {
     "maMon": "BAS1158",
@@ -6046,8 +6046,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6068,8 +6068,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6090,8 +6090,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6112,8 +6112,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6134,8 +6134,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6156,8 +6156,8 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   },
   {
     "maMon": "BAS1158",
@@ -6178,7 +6178,7 @@
     "giangVien": "",
     "tuanHoc": "2 3 4 5 6 7 8 9 10 11 12 13 14 15",
     "maLop": "4",
-    "soTC": 3,
-    "daDangKyCount": 22
+    "soTC": 4,
+    "daDangKyCount": 20
   }
 ]
