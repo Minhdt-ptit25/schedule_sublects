@@ -428,13 +428,17 @@ const SubjectTable = ({
                   )}
                 </div>
 
-                {/* Line 2: Badge + Credits + Class Code */}
+                {/* Line 2: Badge + Credits + Nhóm + Tổ TH + Class Code */}
                 <div style={{ fontSize: '0.74rem', color: 'var(--text-muted)', display: 'flex', alignItems: 'center', gap: '6px', flexWrap: 'wrap' }}>
                   <span style={{ background: typeBadge.bg, color: typeBadge.color, borderLeft: typeBadge.borderLeft, padding: '1px 6px', borderRadius: '4px', fontWeight: 800, fontSize: '0.7rem' }}>
                     {typeBadge.label}
                   </span>
                   <span>•</span>
                   <span style={{ fontWeight: 700, color: 'var(--ptit-red)' }}>{sub.soTC} TC</span>
+                  <span>•</span>
+                  <span style={{ fontWeight: 800, color: 'var(--text-primary)', background: 'var(--bg-secondary)', padding: '1px 6px', borderRadius: '4px', border: '1px solid var(--border-color)' }}>
+                    Nhóm {sub.nhom || '01'} {sub.toTH ? `(Tổ TH ${sub.toTH})` : ''}
+                  </span>
                   <span>•</span>
                   <span style={{ fontWeight: 600 }}>{sub.maLop || sub.maMon}</span>
                 </div>
