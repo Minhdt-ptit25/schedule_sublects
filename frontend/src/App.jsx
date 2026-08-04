@@ -6,7 +6,7 @@ import SubjectTable from './components/SubjectTable';
 import Timetable from './components/Timetable';
 import ExcelUploadModal from './components/ExcelUploadModal';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_BASE || 'https://schedule-sublects.onrender.com/api';
 
 function App() {
   const [theme, setTheme] = useState('light');
